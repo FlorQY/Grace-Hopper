@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+}
+header h1{
+  margin-bottom: 3px;
+}
+.header hr{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.biografia {
+
+  width: 69%;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.informacion {
+
+  display: inline-block;
+  float: right;
+  padding top: right;
+  width: 28%;
+}
+
+table{
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  font-size: 14px
+}
+
+table thead th{
+  background-color: #B0C4DE;
+  padding-top: 3px;
+  padding-bottom: 3px;
+
+}
+table tbody tr:first-child{
+  text-align: center;
+}
+table tbody th{
+  text-align: left;
+
+}
+.contenido{
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  margin: 0 685px 100px 20px;
+}
+
+h3{
+  text-align: center;
+}
